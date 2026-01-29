@@ -1,0 +1,4 @@
+.venv/
+genesys_chunks.jsonl
+__pycache__/
+*.pyc
